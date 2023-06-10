@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Federico Siciliano
 
 # Full name (for SEO)
 first_name: Federico
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Data Science at Sapienza University of Rome
+role: PhD Student in Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,16 +26,16 @@ bio: My research interests include Explainable Artificial Intelligence and Found
 
 # Interests to show in About widget
 interests:
-  - eXplainable Artificial Intelligence
+  - Explainable Artificial Intelligence
   - Foundations of Deep Learning
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Sapienza University of Rome
-      year: 2020-CURRENT
+    # - course: PhD in Data Science
+    #   institution: Sapienza University of Rome
+    #   year: 2024
     - course: MSc in Data Science
       institution: Sapienza University of Rome
       year: 2019
@@ -51,21 +51,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=zNapfMcAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/siciliano-diag
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/federico-siciliano-1b5809195/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Federico Siciliano, a PhD Student in Data Science at Sapienza University of Rome. My research interests include 
+Explainable Artificial Intelligence, Foundations of Deep Learning and Information Retrieval. I'm part of the RSTLess research group, which focuses on Robust, Safe and Transparent Deep Learning.
 {style="text-align: justify;"}
